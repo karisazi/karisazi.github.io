@@ -1,5 +1,5 @@
 ---
-date: '2024-03-301'
+date: '2024-03-01'
 title: 'AI Engineer Intern'
 company: 'Angusta System'
 location: 'Australia'
